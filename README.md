@@ -1,6 +1,18 @@
  
 
 <!-- Başlık ve selamlama -->
+# Hello, I'm Eda 👋
+I believe that the knowledge and experience gained in digital communication can be expanded to many areas where data analysis is required. To protect the data analysis and reporting landscape, I continue to publish and maintain unauthorized records of sample studies on data analysis and report creation using data analysis tools.
+
+I am passionate about data analysis, SQL, and data visualization.
+
+I enjoy practicing implementation on real data programs.
+
+- Querying data using SQL.
+- Creating SQL reports and custom data analyses.
+- Dashboards are becoming increasingly common in Tableau and Looker Studio.
+- Data analysis and basic reporting using Google Sheets and Excel.
+- Basic data cleansing with Python.
 # Merhaba, Ben Eda 👋
 Dijital iletişim alanında edindiğim bilgi birikimi ve deneyimin, veri analizinin gerekli olduğu birçok alana genişletilebileceğine inanıyorum. Veri analizi ve raporlama alanında kendimi geliştirmek için veri analizi araçlarını kullanarak  verileri analiz edip, raporlar hazırlama ile ilgili örnek çalışmalar çıkarmaya ve kendimi geliştirmeye devam ediyorum. 
 
@@ -14,6 +26,8 @@ Gerçek veri setleri üzerinde çalışarak pratik yapmayı seviyorum.
 -Temel seviye Python ile veri temizliği
 
 ---
+
+
 
 <!-- Hakkımda -->
 ## Hakkımda
