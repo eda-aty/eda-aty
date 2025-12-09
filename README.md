@@ -19,11 +19,11 @@ Dijital iletişim alanında edindiğim bilgi birikimi ve deneyimin, veri analizi
 Veri analizi ,  SQL ve veri görselleştirme konularında tutkuluyum.  
 Gerçek veri setleri üzerinde çalışarak pratik yapmayı seviyorum.
 
--SQL kullanarak veri sorgulama.
--SQL kullanarak raporlar oluşturmak ve özel veri analizleri gerçekleştirmek.
--Tableau ve Looker Studio'da gösterge panelleri(dashboard) geliştirmek.
--Google Sheets ve Excel kullanarak veri analizi ve temel seviye raporlama.
--Temel seviye Python ile veri temizliği
+- SQL kullanarak veri sorgulama.
+- SQL kullanarak raporlar oluşturmak ve özel veri analizleri gerçekleştirmek.
+- Tableau ve Looker Studio'da gösterge panelleri(dashboard) geliştirmek.
+- Google Sheets ve Excel kullanarak veri analizi ve temel seviye raporlama.
+- Temel seviye Python ile veri temizliği
 
 ---
 
