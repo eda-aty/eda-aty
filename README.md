@@ -27,20 +27,19 @@ Gerçek veri setleri üzerinde çalışarak pratik yapmayı seviyorum.
 
 ---
 
-
-
 <!-- Hakkımda -->
 ## Hakkımda
 
-- 🎓 Ankara Üniversitesi Fizik, 2011  
-- 📈 Veri analizi analında projeler geliştiriyorum  
-- 🚀 Hedefim veri alanında uzmanlaşmak ve iş dünyasına değer katmak  
+- 🎓 Ankara Üniversitesi Fizik, 2011
+- 👩🏻‍💻 Yaklaşık 7 yıldır Dijital Medya İletişimi odaklı projelerde çalışmaktayım
+- 📈 Veri analizi alanında projeler yaparak kendimi geliştiriyorum
+- 🚀 Hedefim, veri analizi alanında uzmanlaşmak ve iş dünyasına değer katmak  
 
 ---
 
 <!-- Beceri Listesi -->
 ## 🚀 Becerilerim
-|  PostgreSQL | Tableau, Looker Studio | Google Sheets, Excel | Python (beginner )
+|  PostgreSQL | Tableau, Looker Studio | Google Sheets, Excel | Python (beginner )| Canva | Google Analytics
 
 ---
 
